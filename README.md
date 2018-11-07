@@ -10,7 +10,7 @@ Since R20 Coffee-Script is no longer supported in C4D, so I decided to revamp th
 
 + Follow Clones with Nulls or any other Object
 + Transfer Display-Color from Clones to Objects
-+ <b>R20 ready</b> but also works in older Versions ( R16-R20 )
++ <b>R20 ready</b> but works in older Versions ( R16-R20 )
 </br>
 
 Download here:</br>
