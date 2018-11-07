@@ -12,6 +12,6 @@ Since R20 Coffee-Script is no longer supported in C4D, so I decided to revamp th
 + <b>R20 ready</b> but also works in older Versions ( R16-R20 )
 + Mograph-Selections got introduced in R18
 </br>
-Download [here](../blob/master/MographToNulls_Python.c4d)</br>
+Download [here](https://github.com/lasselauch/c4d-presets/blob/master/MographToNulls_Python.c4d)</br>
 
 ---
