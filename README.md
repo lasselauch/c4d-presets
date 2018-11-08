@@ -1,8 +1,8 @@
 # c4d-presets
-My collection of useful Cinema 4D Presets.
+## My collection of Cinema 4D Presets
 
----
-<b>MographToNulls_Python.c4d</b></br></br>
+### MographToNulls_Python.c4d
+
 ![<MographToNulls_Python.gif>](https://github.com/lasselauch/c4d-presets/blob/master/img/MographToNulls_Python.gif)</br>
 _Original Coffee-Script & Concept by Per Anders. (http://peranders.com/)_</br></br>
 <b>The awesome Xpresso/Coffee Script from Per Anders just got updated!</b></br>
