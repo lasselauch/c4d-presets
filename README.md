@@ -34,7 +34,6 @@ _This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
 </br>
 
 **KNOWN-LIMITATIONS:**
-+ "[ Auto-Take enabled ]" might be drawn behind Objects...
 + Currently drawing behind Safe-Frames, not sure how to work around that...
 
 **Download here:**</br>
