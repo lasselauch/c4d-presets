@@ -31,13 +31,12 @@ _This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
 + Change Color for Auto Take within Settings
 + Compatibility: <b>R18 and up...</b>
 + more features to come...
-</br>
 
 ### Settings:
 ![<take-hud-settings.png>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-settings.png)</br>
 
 **KNOWN-LIMITATIONS:**
-+ Currently drawing behind Safe-Frames, not sure how to work around that...
++ Currently drawing behind Safe-Frames, not sure how to work around that... ("Flip Border X/Y", helps in that case...)
 
 **Download here:**</br>
 [take-hud-helper.c4d](https://github.com/lasselauch/c4d-presets/blob/master/take-hud-helper.c4d)
