@@ -21,7 +21,7 @@ Since R20 Coffee-Script is no longer supported in C4D, so I decided to revamp th
 
 ---
 
-### take-hud-helper.c4d
+### take-hud-helper.c4d (0.1.3)
 
 ![<take-hud-helper.gif>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-helper.gif)</br>
 _This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
@@ -32,6 +32,9 @@ _This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
 + Compatibility: <b>R18 and up...</b>
 + more features to come...
 </br>
+
+### Settings:
+![<take-hud-settings.png>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-settings.png)</br>
 
 **KNOWN-LIMITATIONS:**
 + Currently drawing behind Safe-Frames, not sure how to work around that...
