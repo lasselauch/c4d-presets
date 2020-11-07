@@ -3,6 +3,22 @@
 
 - - -
 
+### take-hud-helper.c4d ( 0.1.4 )
+
+![<take-hud-helper.gif>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-helper.gif)</br>
+_This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
+<b>Gives you a better indicator when working with takes. Just merge it into your scene and you're good to go.</b>
+</br>
++ Compatibility: <b>R18 and up...</b>
+
+### Settings:
+![<take-hud-settings.png>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-settings.png)</br>
+
+**Download here:**</br>
+[take-hud-helper.c4d](https://github.com/lasselauch/c4d-presets/blob/master/take-hud-helper.c4d)
+
+- - -
+
 ### MographToNulls_Python.c4d
 
 ![<MographToNulls_Python.gif>](https://github.com/lasselauch/c4d-presets/blob/master/img/MographToNulls_Python.gif)</br>
@@ -18,25 +34,4 @@ Since R20 Coffee-Script is no longer supported in C4D, so I decided to revamp th
 **Download here:**</br>
 [MographToNulls_Python.c4d](https://github.com/lasselauch/c4d-presets/blob/master/MographToNulls_Python.c4d)
 
-
----
-
-### take-hud-helper.c4d (0.1.3)
-
-![<take-hud-helper.gif>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-helper.gif)</br>
-_This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
-<b>Gives you a better indicator when working with takes. Just merge it into your scene and you're good to go.</b></br>
-</br>
-
-+ Change Color for Auto Take within Settings
-+ Compatibility: <b>R18 and up...</b>
-+ more features to come...
-
-### Settings:
-![<take-hud-settings.png>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-settings.png)</br>
-
-**KNOWN-LIMITATIONS:**
-+ Currently drawing behind Safe-Frames, not sure how to work around that... ("Flip Border X/Y", helps in that case...)
-
-**Download here:**</br>
-[take-hud-helper.c4d](https://github.com/lasselauch/c4d-presets/blob/master/take-hud-helper.c4d)
+- - -
