@@ -3,7 +3,7 @@
 
 - - -
 
-### take-hud-helper.c4d ( 0.1.4 )
+### take-hud-helper.c4d
 
 ![<take-hud-helper.gif>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-helper.gif)</br>
 _This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
@@ -15,7 +15,7 @@ _This idea has recently been discussed on mograph.com Slack-Channel._</br></br>
 ![<take-hud-settings.png>](https://github.com/lasselauch/c4d-presets/blob/master/img/take-hud-settings.png)</br>
 
 **Download here:**</br>
-[take-hud-helper.c4d](https://github.com/lasselauch/c4d-presets/blob/master/take-hud-helper.c4d)
+[take-hud-helper.c4d ( v0.1.4 )](https://github.com/lasselauch/c4d-presets/blob/master/take-hud-helper.c4d)
 
 - - -
 
